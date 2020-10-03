@@ -14,3 +14,10 @@ function barTriang([p1, p2], [p3,p4],[p5,p6]){
 return[+((p1+p5+p3)/3).toFixed(4),+((p2+p4+p6)/3).toFixed(4)]
 }
 ```
+[Calculate Price Excluding VAT](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/train/javascript) 
+```
+function excludingVatPrice(price){ 
+  return price === null? -1:+((price/1.15).toFixed(2));
+}
+```
+                                                  
