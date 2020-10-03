@@ -19,5 +19,7 @@ return[+((p1+p5+p3)/3).toFixed(4),+((p2+p4+p6)/3).toFixed(4)]
 function excludingVatPrice(price){ 
   return price === null? -1:+((price/1.15).toFixed(2));
 }
+
+let excludingVatPrice = price => price === null? -1:+((price/1.15).toFixed(2));
 ```
                                                   
