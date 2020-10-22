@@ -1,14 +1,14 @@
 # Home-Work-JSP
 
-1.     Be Concise IV - Index of an element in an array https://www.codewars.com/kata/be-concise-iv-index-of-an-element-in-an-array
-2.     The Office IV - Find a Meeting Room  https://www.codewars.com/kata/57f604a21bd4fe771b00009c
-3.     A wolf in sheep's clothing https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
-4.     Remove the minimum https://www.codewars.com/kata/563cf89eb4747c5fb100001b
-5.     Beginner - Lost Without a Map https://www.codewars.com/kata/57f781872e3d8ca2a000007e
-6.     Invert values https://www.codewars.com/kata/invert-values
-7.     Convert an array of strings to array of numbers https://www.codewars.com/kata/5783d8f3202c0e486c001d23
-8.     Take an Arrow to the knee, Functionally https://www.codewars.com/kata/559f3123e66a7204f000009f
-9.     No Loops 2 - You only need one https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce
+1.   Be Concise IV - Index of an element in an array https://www.codewars.com/kata/be-concise-iv-index-of-an-element-in-an-array
+2.   The Office IV - Find a Meeting Room  https://www.codewars.com/kata/57f604a21bd4fe771b00009c
+3.   A wolf in sheep's clothing https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
+4.   Remove the minimum https://www.codewars.com/kata/563cf89eb4747c5fb100001b
+5.   Beginner - Lost Without a Map https://www.codewars.com/kata/57f781872e3d8ca2a000007e
+6.   Invert values https://www.codewars.com/kata/invert-values
+7.   Convert an array of strings to array of numbers https://www.codewars.com/kata/5783d8f3202c0e486c001d23
+8.   Take an Arrow to the knee, Functionally https://www.codewars.com/kata/559f3123e66a7204f000009f
+9.   No Loops 2 - You only need one https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce
 10.  You only need one - Beginner https://www.codewars.com/kata/you-only-need-one-beginner
 11.  JavaScript Array Filter https://www.codewars.com/kata/514a6336889283a3d2000001/train/javascript
 12.  filterEvenLengthWords https://www.codewars.com/kata/59564f3bcc15b5591a00004a
